@@ -1,10 +1,4 @@
-# -
-# TerminalIO
-# TerminalIO
-# TerminalIO
-# GCDDemo
-# GCDDemo
-# GCDDemoYJC
-# GCDDemoYJC
-# GCDDemo
-# GCDDemo
+# 多线程之GCD 
+demo提供简单的使用GCD解决项目里基本的需求，比如：后台耗时异步处理主队列、异步下载、上传后通知主线程操作一些提示跳转等操作等等。
+
+
